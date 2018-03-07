@@ -327,7 +327,7 @@
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](https://github.com/mhinz/vim-galore)
+- [Vim](https://github.com/mhinz/vim-galore) - Everything you need to know about Vim.
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor.
